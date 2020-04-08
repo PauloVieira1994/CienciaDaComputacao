@@ -3,12 +3,11 @@
 Exercícios realizados
 
 Divididos em:
+- iniciante
 
--iniciante
+- strutura de Dados
 
--Estrutura de Dados
-
--SQL
+- SQL
 
 Paulo Roberto Vieira Filho :copyright:
 beto.vieira94@gmail.com
