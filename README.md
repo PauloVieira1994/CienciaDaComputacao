@@ -1,4 +1,4 @@
-# Ciência da Computação - UNIFEG
+# Ciência da Computação - UNIFEG - Paulo Roberto Vieira Filho
 
 - Duração do Curso: 8 semestres
 - Período: Noturno
