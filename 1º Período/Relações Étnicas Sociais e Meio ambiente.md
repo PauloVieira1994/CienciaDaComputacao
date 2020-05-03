@@ -8,4 +8,4 @@
 #### Objetivos Específicos:
 >Estuda a importância das questões ambientais e as relações étnicos raciais e sua aplicabilidade no cotidiano.
 #### Metodologia:
->Aula expositiva, debates e metodologia ativas
+>Aula expositiva, debates e metodologia ativas.
