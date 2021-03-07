@@ -9,5 +9,3 @@
 >Familiarização dos alunos com teorias de controle e automação industrial, com arquiteturas de microcontroladores e linguagens de programação.
 ##### Metodologia:
 >Aulas expositivas, lista de exercícios, simulações computacionais.
-##### Critérios de Avaliação:
->Provas, lista de exercícios, projeto.
