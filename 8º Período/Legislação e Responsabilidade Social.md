@@ -6,6 +6,6 @@
 ##### Objetivos Gerais:
 >A compreender a responsabilidade social frente a legislação do profissional da computação.
 ##### Objetivos Específicos:
-> Compreender a dimensão social e a responsabilidade com relação a sociedade e os impactos da ação do profissional da computação nas questões ética e políticas.
+>Compreender a dimensão social e a responsabilidade com relação a sociedade e os impactos da ação do profissional da computação nas questões ética e políticas.
 ##### Metodologia:
 >Metodologias ativas. Aula expositiva e debates.
